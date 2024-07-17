@@ -1,5 +1,6 @@
 These contain the below practice code files in java
 
+Practice folder consists of 
 Some programming exercises that you can practice on your own. These cover various topics such as arithmetic operations, conditions, loops, and user input handling:
 1. Sum and Average of Numbers
 Problem: Write a program that takes a list of numbers as input, calculates their sum, and computes the average.
@@ -42,3 +43,30 @@ Problem: Write a program that calculates simple interest based on user input for
 20. Count Positive, Negative, and Zero Numbers
 Problem: Write a program that takes a list of numbers and counts how many are positive, negative, and zero.
 
+Practice set 2:
+Sure! Here are the topics with numbered points:
+
+1. **Basic Function Definition**
+   - Write a method `greet` that takes a string parameter `name` and prints "Hello, name!".
+
+2. **Function with Return Type**
+   - Write a method `multiply` that takes two integer parameters and returns their product.
+
+3. **Method Overloading**
+   - Create overloaded methods `printInfo`:
+     1. One that takes a string and prints it.
+     2. Another that takes an integer and prints it.
+     3. Another that takes a string and an integer, and prints them both.
+
+4. **Calculations with Parameters**
+   - Write a method `calculateArea` that calculates the area of a rectangle. Use method overloading to handle both integer and double parameters.
+
+5. **Combining Multiple Methods**
+   - Write a method `isEven` that takes an integer and returns true if the number is even, otherwise false.
+   - Write another method `printEvenNumbers` that takes an array of integers and uses the `isEven` method to print all even numbers in the array.
+
+6. **Overloaded Method with Different Return Types**
+   - Write overloaded methods `findMax`:
+     1. One that takes two integers and returns the larger one.
+     2. Another that takes two doubles and returns the larger one.
+     3. Another that takes three integers and returns the largest one.
